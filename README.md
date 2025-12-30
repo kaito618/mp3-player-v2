@@ -12,3 +12,9 @@ i'm going to connect the some other parts and modify the mp3 player board for my
 
 i'll keep working now 11:58 pm 
 ![1500 mah liion 18650](https://github.com/user-attachments/assets/c8f759e2-4dad-441a-8288-f8b16b7b50ff)
+-----------------------------------
+now its 1:30 am what i finished my research about the mp3 boards and choose the right one for my needs and i made a project on blueprint hackclub under the name mp3 player v2 to journal and keep track of time and for the project i will finsih journaling this part first on the site and i already started considering the bluetooth option and im having some problems with how to add it because i want it to be toggled on and off on need to save battery my current idea is adding a separate bl moudle board and connecting it to the switch 
+ill finsih the journal first and then i'll decide whether to sleep or continue
+done 
+charging module + protection , (battarey added 1500 mAH for now ) , added type c connector 3.1 acn wired everything , chose which mp3 board ill use and added it still didnt connect it 1:39 am
+-----------------------------------

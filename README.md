@@ -11,3 +11,4 @@ did some research on the ics and the parts im using and figured out which parts 
 i'm going to connect the some other parts and modify the mp3 player board for my needs and then have a break (sleep) cuz i'm sick now its 11:53 
 
 i'll keep working now 11:58 pm 
+![1500 mah liion 18650](https://github.com/user-attachments/assets/c8f759e2-4dad-441a-8288-f8b16b7b50ff)

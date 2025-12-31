@@ -52,4 +52,18 @@ now its 7:53 i'll probably have a break and then go on and
 recheck the wiring i alr did and connecting the floating labeled wires i didn't connect yet
 
 -------------------------------
-i'll go on at 11:59 until i reach the pcp layout part (prob)
+almost finished the schematic
+i'll go on until i reach the pcb layout part (prob) (at 11:59 pm 2025/12/31) start time
+i have finished the schematic but still need to ask someone who knows about pcb if i did it right before doing next part (convert to pcb) i had ton of problems and used wrong datasheet for the old parts i was using instead of the new ones i added so i messed up almost all the connections and then when i finally noticed i had to delete and rewire the whole thing again for like the millionth time i will probably loose my sanity after this project lol but i don't plan on stopping even if it i don't manage to make it real at least i did and learned a lotttt
+
+this was the first wiring
+
+![first](https://github.com/user-attachments/assets/05c347de-b917-482a-bc1b-8d73b55498da)
+
+
+and this is the final one for now and hope it's good (cuz i'm so close of being one with my chair)
+
+![finalfornn](https://github.com/user-attachments/assets/39ce5264-55d4-46ed-bd08-7a5e91ae5ed2)
+
+
+done at 1:25 am 2026/1/1 (i've been working on this project for a whole year lol)

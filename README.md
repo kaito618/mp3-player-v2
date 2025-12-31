@@ -2,7 +2,7 @@ HAD THE IDEA AT 2025/12/30 1.40 pm filtered the idea and was ready to start work
 
 made my first project at 7:40 pm after some yt toturials on how to use EasyEDA
 
-THE project is a v2 of the mp3 player i made this time i want it to be smaller and with my own pcp and would like to try some 3d modeling for the first time too with the enclosure
+THE project is a v2 of the mp3 player i made this time i want it to be smaller and with my own pcb and would like to try some 3d modeling for the first time too with the enclosure
 
 i finsihed the charging + protection circuit at 8:40 pm 
 
@@ -19,9 +19,21 @@ done
 charging module + protection , (battarey added 1500 mAH for now ) , added type c connector 3.1 acn wired everything , chose which mp3 board ill use and added it still didnt connect it 1:39 am
 -----------------------------------
 i've alr done the first jornal on hackclub and went eda again i tried wiring the parts that i chose for now and was super confused on how to connect them i'm not used to the schematic type of thing (my first time) i was lost between letters and wires and accidantly connecting parts becuase of the grid thing that the wire isn't flexible had to go watch more tutorials and learn the abbreviations of the pins and then i finally managed to wire al the parts i didnt totally finish the wiring procces, i still need to add some ressistors and capacitors and the bluetotth module but i guess thats enough for today becuase i nedd to sleep and rest 
+----------------------------------
 # time now 3:24 
 done 
 most of wiring for the parts (TP4056X-435-ESOP8) (DW01A) (FS8205A) (USB3.1 TYPE-C 06PF-073) (GPD2856C) (battery)
 ![sech 2](https://github.com/user-attachments/assets/e6fe430c-e396-4a76-90ff-bc0e110107cd)
 
 -----------------------------------
+started at 2025/12/31 2:50 pm 
+i'm having some problems with the wiring process on easyeda especially after changing some goals as for now i got this idea to charge and add the files through the same type c port instead of manually adding files to sd card
+problems
+1- i need a different type of type c connector and i choose a one with 16 pins
+2- i need to wire the new type c
+3- some of my wires are connected in a wrong way and i need to rewire them
+4- i don't seem to fully understand the wiring system on easyeda like the circle and whether the pins are connected or not
+5- delayed the bluetooth part until i finish the wiring for those parts
+![s3](https://github.com/user-attachments/assets/c6c467af-8efb-4e0c-a939-f36d5dee014c)
+
+lunch break at 3:43 pm

@@ -50,3 +50,6 @@ i then started wiring the parts and connecting everything and finished wiring at
 i had some problems with connecting the 3.5 mm jack didn't k which pin was for what and discovered the gnd flag feature which made everything much easier than my first approach
 now its 7:53 i'll probably have a break and then go on and
 recheck the wiring i alr did and connecting the floating labeled wires i didn't connect yet
+
+-------------------------------
+i'll go on at 11:59 until i reach the pcp layout part (prob)

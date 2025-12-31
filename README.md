@@ -18,3 +18,10 @@ ill finsih the journal first and then i'll decide whether to sleep or continue
 done 
 charging module + protection , (battarey added 1500 mAH for now ) , added type c connector 3.1 acn wired everything , chose which mp3 board ill use and added it still didnt connect it 1:39 am
 -----------------------------------
+i've alr done the first jornal on hackclub and went eda again i tried wiring the parts that i chose for now and was super confused on how to connect them i'm not used to the schematic type of thing (my first time) i was lost between letters and wires and accidantly connecting parts becuase of the grid thing that the wire isn't flexible had to go watch more tutorials and learn the abbreviations of the pins and then i finally managed to wire al the parts i didnt totally finish the wiring procces, i still need to add some ressistors and capacitors and the bluetotth module but i guess thats enough for today becuase i nedd to sleep and rest 
+# time now 3:24 
+done 
+most of wiring for the parts (TP4056X-435-ESOP8) (DW01A) (FS8205A) (USB3.1 TYPE-C 06PF-073) (GPD2856C) (battery)
+![sech 2](https://github.com/user-attachments/assets/e6fe430c-e396-4a76-90ff-bc0e110107cd)
+
+-----------------------------------

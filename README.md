@@ -37,3 +37,16 @@ problems
 ![s3](https://github.com/user-attachments/assets/c6c467af-8efb-4e0c-a939-f36d5dee014c)
 
 lunch break at 3:43 pm
+---------------------------------
+started at 2025/12/31 4 pm
+i changed the whole approach and changed some parts, i replaced the (TP4056X-435-ESOP8) (DW01A) (FS8205A) with the TP5400_C2891434 to have less parts on screen and to improve have smaller size finale, i restarted the whole project made a new project on easyeda and started adding the parts with the new modifications finished choosing the new parts and adding them at 6:46 pm
+![sev2 1](https://github.com/user-attachments/assets/3f487ac1-7521-48b6-af4b-b5b10bed7500)
+
+
+i then started wiring the parts and connecting everything and finished wiring at 7:40 pm
+![sec2 1 2](https://github.com/user-attachments/assets/181854d3-6bd1-4253-9e11-9684171c4a5f)
+
+
+i had some problems with connecting the 3.5 mm jack didn't k which pin was for what and discovered the gnd flag feature which made everything much easier than my first approach
+now its 7:53 i'll probably have a break and then go on and
+recheck the wiring i alr did and connecting the floating labeled wires i didn't connect yet

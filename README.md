@@ -81,25 +81,25 @@ couldn't stop thinking about the switch the i removed and it was for switching b
 ![4:35am](https://github.com/user-attachments/assets/0d623ef6-27dc-48c8-8b2e-4952cc62bf9e)
 
 ------------------------------
-HAVE BEEN WORKING FOR A LOTOF TIME NOW at 5:31 am my board finally came to life when i transformed the schematic into a pcb i chose the board size 80x50 and addded all the parts and arrenged them.
+HAS BEEN WORKING FOR A LOT OF TIME NOW, at 5:31 am my board finally came to life when i transformed the schematic into a pcb i chose the board size 80x50 and addded all the parts and arranged them.
 ![pcb](https://github.com/user-attachments/assets/27219ef6-cc02-45e4-8f3f-68060263534a)
 
  i started doing the extra things as routing and copper adding steps 
- routed pcp step : 
+ routed pcb step : 
 ![routed pcb2026-01-01_05-36-14](https://github.com/user-attachments/assets/eecd1308-00e3-442d-b2d7-c887ad5a450b) at 5:36 am 
 
 adding the copper step front and back:
 ![copper back pcb](https://github.com/user-attachments/assets/8bbfc384-f7dc-4aac-9302-eee385b24a6a)
 ![front copper pcb2026-01-01_05-41-24](https://github.com/user-attachments/assets/50902133-298b-4962-a647-14ed7a324fac)
 
-i made the 3d model step and it was the happiest moment of my life it's that feeling when you are to happy you can't breath and feel yout heart beats skipping you just be over the moon 
+i made the 3d model step and it was the happiest moment of my life it's that feeling when you are to happy you can't breath and feel your heart beats skipping, you just be over the moon 
 ![3d](https://github.com/user-attachments/assets/1cc25509-9dda-4ff4-8920-7d87d01b7cda)
 
 
-then i added more txts on the silk layer :
+then i added more texts on the silk layer :
 
 ![MEPCB](https://github.com/user-attachments/assets/bf0a95a9-066e-4a5f-a05f-fa3cf78ff862)
 
-the next step which i'm having a bit of trouble with is the vbat and gnd pads as it's a bit crowded around the pin i'm trying to reach what i learnt that u can make it go on the back and then make a vias hole when u reach the pin but when i do that it gives me errors and i discovered it myself so probably i'm doing somthing wrong i'll take a break and sleep now and do it tomorrow (the happiness shot restored my sanity)  done for this session at 2026/1/1 7 am
+the next step which i'm having a bit of trouble with is the vbat and gnd pads as it's a bit crowded around the pin i'm trying to reach what i learnt that u can make it go on the back and then make a vias hole when u reach the pin but when i do that it gives me errors and i discovered it myself so probably i'm doing something wrong i'll take a break and sleep now and do it tomorrow (the happiness shot restored my sanity)  done for this session at 2026/1/1 7 am
 
 

@@ -67,3 +67,6 @@ and this is the final one for now and hope it's good (cuz i'm so close of being 
 
 
 done at 1:25 am 2026/1/1 (i've been working on this project for a whole year lol)
+--------------------------------
+at 2 am i got some information that the main ic i'm using won't be avaliable so i have to choose the gpd ic and the ic i chose was the AC6965E4 and now i need to reconnect everything again i'll try to keep my sanity and do the whole thing before i sleep unless my back decides to collapse first.
+see ya i'll start now 2:27 am 

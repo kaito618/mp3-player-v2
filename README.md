@@ -74,4 +74,9 @@ i've connected the new ic finally did some modifications and connected the new f
 
 ![done v2 1](https://github.com/user-attachments/assets/c754e215-5dc4-425c-88d9-f693c04d4a3c)
 
+-------------------------------
+couldn't stop thinking about the switch the i removed and it was for switching between bl mode and tf sd card mode so at the end my brain won and i added it sw4 to toggle the mode (done at 5:50 am)
++ i named the projects wrong as i didn't delete the old schematic with the gpd cuz its my work ukk that what made a bit of mess, when i came back to add the fourth switch it showed the old gpd instead of the new ic and i almost had a stroke trying to remember whether i clicked save, good for my heart i mixed the projects names and my project with the new ic was safely saved (I AM SAVED)
+
+![4:35am](https://github.com/user-attachments/assets/0d623ef6-27dc-48c8-8b2e-4952cc62bf9e)
 
